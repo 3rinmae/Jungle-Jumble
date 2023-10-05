@@ -1,0 +1,12 @@
+/* BASIC STYLES HERE */
+body {
+  user-select: none;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.longbox {
+  width: 100%;
+}
