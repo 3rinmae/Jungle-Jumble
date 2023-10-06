@@ -1,4 +1,4 @@
-Jungle-Jumble
+Jungle-Jumble - Completed as a partner project in lab. 
 ============
 
 ### Get Started
